@@ -1,2 +1,0 @@
-# Digital Musical Instrument Design
- 
